@@ -1,0 +1,42 @@
+commit 5f5df09b9a4fdeb427b31193ba69d37d4aaa9452
+Author: rome27 <romevskiognen@gmail.com>
+Date:   Thu Apr 6 15:37:20 2023 +0200
+
+    SILab1.java
+
+commit af02f38968f75bb3f400b200f7a6a8d4c6e73c74
+Merge: da3a48a 9352c9a
+Author: rome27 <romevskiognen@gmail.com>
+Date:   Thu Apr 6 16:04:42 2023 +0200
+
+    Merge branch 'bug2'
+
+commit da3a48a5ea0b3f9275cbd68603c08b2b14d6f3a6
+Author: rome27 <romevskiognen@gmail.com>
+Date:   Thu Apr 6 16:04:33 2023 +0200
+
+    SILab1.java
+
+commit 9352c9a181d83add47955fd18d1721a91bec999a
+Author: rome27 <romevskiognen@gmail.com>
+Date:   Thu Apr 6 15:24:34 2023 +0200
+
+    SILab1.java
+
+commit ad39f39e28af627acb7153107549bfbbcf88e52e
+Author: rome27 <romevskiognen@gmail.com>
+Date:   Thu Apr 6 15:08:56 2023 +0200
+
+    SILab1.java
+
+commit 308c11b6629daf54bf0b65c776fcc918c53be002
+Author: rome27 <romevskiognen@gmail.com>
+Date:   Thu Apr 6 15:04:54 2023 +0200
+
+    Add java class
+
+commit 3cf4de602937b05357a0373e7b35f9591988ba02
+Author: rome27 <romevskiognen@gmail.com>
+Date:   Thu Apr 6 14:50:03 2023 +0200
+
+    Initial commit

@@ -1,0 +1,43 @@
+git init
+git add README.md
+git add .
+git commit -m "Initial commit"
+git config --global user.email "romevskiognen@gmail.com"
+git config --global user.name "rome27"
+git commit -m "Initial commit"
+git remote add origin https://github.com/rome27/SI_2023_lab1_213142.git
+git push -u origin master
+git status
+git add SILab1.java
+git commit -m
+git commit -m "Add java class"
+git push
+git branch bug1
+git branch bug2
+git branch bug3
+git checkout bug1
+i <= n --> i < n
+git status
+git add SILab1.java
+git commit -m SILab1.java
+git checkout bug2
+if (el % 2 == 0) { --> if (el % 2 != 0) {
+git status
+git add SILab1.java
+git commit -m SILab1.java
+git checkout bug3
+sum *= el; --> sum += el;
+git status
+git add SILab1.java
+git commit -m SILab1.java
+git push origin master
+git checkout master
+git merge bug1 (nema problemi)
+git push
+git merge bug2 (pobara objasnuvanje za merge, sredeno so :wq vo insert)
+git push
+git checkout master
+git merge bug3 (nema problemi)
+git push
+git log > logs.txt
+git push origin master
